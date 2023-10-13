@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="sv">
     <head>
-        <link rel="stylesheet" href="text/css">
+        <link rel="stylesheet" href="text/css" type="text/css">
     </head>
     <body>
         <p>HEJ</p>
